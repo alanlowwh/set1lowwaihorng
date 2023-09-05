@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">set1lowwaihorng</string>
+    <string-array name="course_options">
+        <item>Course 1</item>
+        <item>Course 2</item>
+        <item>Course 3</item>
+    </string-array>
+</resources>
